@@ -64,7 +64,6 @@ The testing process follows a structured methodology:
 ## Project Board
 ![DemoBlaze Project Board](attachment://DemoBlaze_Project_board.png)
 - **Status Overview**: Tracks tasks like login fails, payment validation, and product filtering.
-- **Assignees**: Includes Rawan Ellsayed, John Doe, and Jane Smith.
 - **Last Updated**: July 01, 2025, 11:25 PM EEST.
 
 ## Setup Instructions
